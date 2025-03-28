@@ -1,0 +1,6 @@
+Description: Stores model hyperparameters and settings.
+
+Example Keys:
+batch_size: Number of images per training batch.
+learning_rate: Learning rate for optimizer.
+epochs: Number of training epochs.
